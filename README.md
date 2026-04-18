@@ -1,1 +1,1 @@
-# 45-day-MERN-Stack-developer
+# 10-day-MERN-Stack-developer
